@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\verduleria\Verduleria\bin\Debug\net9.0\Verduleria.exe
+C:\Users\User\Desktop\verduleria\Verduleria\bin\Debug\net9.0\Verduleria.deps.json
+C:\Users\User\Desktop\verduleria\Verduleria\bin\Debug\net9.0\Verduleria.runtimeconfig.json
+C:\Users\User\Desktop\verduleria\Verduleria\bin\Debug\net9.0\Verduleria.dll
+C:\Users\User\Desktop\verduleria\Verduleria\bin\Debug\net9.0\Verduleria.pdb
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.AssemblyInfo.cs
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.dll
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\refint\Verduleria.dll
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.pdb
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\Verduleria.genruntimeconfig.cache
+C:\Users\User\Desktop\verduleria\Verduleria\obj\Debug\net9.0\ref\Verduleria.dll
