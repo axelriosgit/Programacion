@@ -1,0 +1,5 @@
+C:\Users\alumno31\Desktop\verduleria\verduleria\obj\Debug\netcoreapp3.1\verduleria.csproj.AssemblyReference.cache
+C:\Users\alumno31\Desktop\verduleria\verduleria\obj\Debug\netcoreapp3.1\verduleria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno31\Desktop\verduleria\verduleria\obj\Debug\netcoreapp3.1\verduleria.AssemblyInfoInputs.cache
+C:\Users\alumno31\Desktop\verduleria\verduleria\obj\Debug\netcoreapp3.1\verduleria.AssemblyInfo.cs
+C:\Users\alumno31\Desktop\verduleria\verduleria\obj\Debug\netcoreapp3.1\verduleria.csproj.CoreCompileInputs.cache
